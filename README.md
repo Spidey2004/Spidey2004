@@ -1,7 +1,7 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
-# 👩🏻‍💻 Edson Filho
+👩🏻‍💻 Edson Filho
 
 **`Desenvolvedor FullStack`**
 
@@ -104,10 +104,4 @@ Me chamo Edson Filho, tenho 21 anos e sou natural do Rio de Janeiro. Concluí o 
 />
 
 <br/>
-
-##
-
-<img src="https://raw.githubusercontent.com/Spidey2004/Spidey2004/output/snake.svg" alt="Snake animation" />
-
-##
 </p>
