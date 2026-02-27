@@ -5,7 +5,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Edson Filho, tenho 21 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no IFRN, com o curso técnico em programação de jogos digitais. Atualmente, estou cursando Ciências Biológicas na UFRN. Sou facisnado por ciência e tecnologia, e quero usar essa conta para estudar e desenvolver projetos de bioinformática. Além disso, também trabalho com jogos e artes no tempo livre.
+My name is Edson Filho, I am 21 years old and I am from Rio de Janeiro. I completed high school at IFRN, with a technical course in digital game programming. Currently, I am studying Biological Sciences at UFRN. I am fascinated by science and technology, and I want to use this account to study and develop bioinformatics projects. In addition, I also work with games and arts in my free time.
 
 <p align="left">
     </a> 
